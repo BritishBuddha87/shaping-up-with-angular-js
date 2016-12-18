@@ -68,6 +68,7 @@
     <None Include="content\bootstrap-theme.min.css.map" />
     <None Include="content\bootstrap.css.map" />
     <None Include="content\bootstrap.min.css.map" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
